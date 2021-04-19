@@ -9,6 +9,7 @@
     "cypress": "^6.8.0"
   },
   "dependencies": {
+    "build": "^0.1.4",
     "superstatic": "^7.1.0"
   },
   "scripts": {
